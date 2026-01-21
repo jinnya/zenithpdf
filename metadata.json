@@ -1,0 +1,7 @@
+{
+  "name": "ZenithPDF",
+  "description": "A world-class, professional all-in-one PDF management suite. Merge, split, compress, convert, and edit PDFs with lightning speed and security.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
